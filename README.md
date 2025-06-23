@@ -124,8 +124,7 @@ The strategy shows promising initial results (63.6% on test set) but requires:
 
 
 ___ 
-Full code :
+### Full code :
 
-https://aurelien7877.github.io/EurostoxxStrategy-ML/
 
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/aurelien7877/EurostoxxStrategy-ML/index.html
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/aurelien7877/EurostoxxStrategy-ML/main/index.html
