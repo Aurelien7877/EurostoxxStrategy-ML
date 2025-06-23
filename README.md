@@ -104,6 +104,7 @@ df['RSI'] = talib.RSI(df['eurostoxx'], timeperiod=14)
 ```
 from sklearn.metrics import classification_report
 print(classification_report(y_true, y_pred))
+```
 
 ##### Backtesting:
 - Implement walk-forward analysis
@@ -119,4 +120,4 @@ The strategy shows promising initial results (63.6% on test set) but requires:
 
 - Real P&L performance analysis
 
-** Next Steps** : Integrate dynamic stops and conduct 6-month forward testing.
+**Next Steps** : Integrate dynamic stops and conduct 6-month forward testing.
